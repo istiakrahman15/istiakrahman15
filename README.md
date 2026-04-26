@@ -23,6 +23,17 @@ I am a **Web Developer** and **Automation Enthusiast**! I love building creative
 
 ---
 
+### 🌐 My Website / Blog
+<p align="left">
+  <a href="https://www.itzshuvo.eu.cc/">
+    <img src="https://img.shields.io/badge/Personal_Blog-ItzShuvo-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Site" />
+  </a>
+</p>
+
+> Check out my personal site where I experiment with web design and share my thoughts!
+
+---
+
 ### 📊 My GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&theme=tokyonight&border_radius=10" />
