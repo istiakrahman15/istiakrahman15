@@ -1,32 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=250&section=header&text=I'm%20Istiak%20Rahman&fontSize=60&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0099ff&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Istiak+Rahman;Web+Developer;Automation+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🚀 Passionate Web Developer from Bangladesh 🇧🇩
 
-Ami ekjon **Web Developer** ebong **Automation Enthusiast**! Creative web projects banano ebong bot automation niye kaj korte ami bhalobashi. 
+I am a **Web Developer** and **Automation Enthusiast**! I love building creative web projects and working with bot automation to simplify complex tasks.
 
 ---
 
-### 🧑‍💻 My Highlights
-- 🔭 **Working on:** Telegram Bot Automation & API Integrations.
-- 🌱 **Learning:** Full Stack Web Development (MERN Stack Journey).
-- ⚡ **Expertise:** WordPress, Firebase, & Blogger.
-- 🎯 **Future Goal:** To become a Top-rated Freelancer & Professional Developer.
+### 🧑‍💻 About Me
+- 🔭 **Currently working on:** Telegram Bot Automation & API Integrations.
+- 🌱 **Learning:** Full Stack Web Development (Mastering the MERN Stack).
+- ⚡ **Expertise:** WordPress Customization, Firebase Apps, and Blogger.
+- 🎯 **Goal:** To become a Professional Full-stack Developer and successful Freelancer.
 
 ---
 
 ### 💻 Tech Stack & Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,firebase,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,firebase,git,github,vscode" alt="My Skills" />
 </p>
-
----
-
-### ⚙️ Automation & Tools
-- 🤖 **Telegram Bot API:** Advanced automation bots built for efficiency.
-- 🔗 **API Integration:** Dynamic data handling and external service linking.
-- 🎨 **UI Design:** Focusing on modern, user-friendly interfaces.
 
 ---
 
@@ -42,20 +35,20 @@ Ami ekjon **Web Developer** ebong **Automation Enthusiast**! Creative web projec
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Let's Connect
 <p align="left">
   <a href="https://t.me/istiakrahman"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://www.instagram.com/istiakrahman_15/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/istiakrahman15/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://discord.com/users/1195940501354975282"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://www.instagram.com/istiakrahman_15/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=istiakrahman15&label=Profile%20Views&color=0099ff&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=istiakrahman15&label=Profile%20Views&color=0099ff&style=flat-square" alt="Visitor Count" />
 </p>
 
 <p align="center">
-  <i>Programming is not just about typing code, it's about solving problems.</i>
+  <i>"Programming is not just about typing code, it's about solving problems."</i>
 </p>
