@@ -35,6 +35,15 @@ I am a **Web Developer** and **Automation Enthusiast**! I love building creative
 
 ---
 
+### ☕ Support My Work
+<p align="left">
+  <a href="https://buymeacoffee.com/istiakrahman">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180px">
+  </a>
+</p>
+
+---
+
 ### 🤝 Let's Connect
 <p align="left">
   <a href="https://t.me/istiakrahman"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
