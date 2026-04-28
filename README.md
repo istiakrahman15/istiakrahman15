@@ -23,14 +23,14 @@ I am a **Web Developer** and **Automation Enthusiast**! I love building creative
 
 ---
 
-### 🌐 My Website / Blog
+### 🌐 My Portfolio
 <p align="left">
-  <a href="https://www.itzshuvo.eu.cc/">
-    <img src="https://img.shields.io/badge/Personal_Blog-ItzShuvo-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger Site" />
+  <a href="https://devistiak.eu.cc/">
+    <img src="https://img.shields.io/badge/Portfolio-Istiak_Rahman-0099ff?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio Site" />
   </a>
 </p>
 
-> Check out my personal site where I experiment with web design and share my thoughts!
+> Check out my personal portfolio to see my latest projects and work!
 
 ---
 
