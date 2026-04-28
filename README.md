@@ -48,7 +48,7 @@ I am a **Web Developer** and **Automation Enthusiast**! I love building creative
 
 ### ☕ Support My Work
 <p align="left">
-  <a href="https://buymeacoffee.com/istiakrahman">
+  <a href="https://www.supportkori.com/istiakrahman15">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180px">
   </a>
 </p>
