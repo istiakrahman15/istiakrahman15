@@ -1,189 +1,200 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:0c1a2e,100:0EA5E9&height=180&section=header&text=Istiak%20Rahman&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Web%20Developer%20%C2%B7%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9&descAlignY=58&descSize=17&animation=fadeIn" />
+# Istiak Rahman
 
-<br/>
+**Developer · Builder · Creator — Bangladesh**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+production-ready+web+apps;Clean+design+%2B+working+software;Laravel+%C2%B7+PHP+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Android;Shipping+real+products%2C+not+tutorials)](https://git.io/typing-svg)
+I build websites, web applications, and digital tools that people can actually use — from browser extensions and developer tools to full-stack apps with auth, databases, and admin panels.
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=istiakrahman15&label=Profile+Views&color=0EA5E9&style=for-the-badge&labelColor=0B1120)](https://github.com/istiakrahman15)
-[![GitHub followers](https://img.shields.io/github/followers/istiakrahman15?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0B1120&logo=github&logoColor=white)](https://github.com/istiakrahman15?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/istiakrahman15?label=Total+Stars&style=for-the-badge&color=0EA5E9&labelColor=0B1120&logo=github&logoColor=white)](https://github.com/istiakrahman15)
-
-<br/>
-
-<a href="https://devistiak.eu.cc/"><img src="https://img.shields.io/badge/🌐 Portfolio-0EA5E9?style=for-the-badge&logoColor=white&labelColor=0B1120" /></a>
-<a href="https://github.com/istiakrahman15"><img src="https://img.shields.io/badge/GitHub-0B1120?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.supportkori.com/istiakrahman15"><img src="https://img.shields.io/badge/☕ Support-0EA5E9?style=for-the-badge&logoColor=white&labelColor=0B1120" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-istiakrahman.pro.bd-0EA5E9?style=for-the-badge&labelColor=0B1120)](https://istiakrahman.pro.bd/)
+[![GitHub](https://img.shields.io/badge/GitHub-istiakrahman15-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/istiakrahman15)
+[![Support](https://img.shields.io/badge/Support_My_Work-SupportKori-0EA5E9?style=for-the-badge&labelColor=0B1120)](https://www.supportkori.com/istiakrahman15)
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-Self-taught solo developer based in Bangladesh. I build and ship web and Android projects end to end — design, frontend, backend, and deployment. I care about clean interfaces, maintainable code, and software that actually works in production.
+I'm a developer from Bangladesh who likes turning ideas into working software. Most of my work lives here on GitHub: web apps built with Next.js and React, Node.js backends, browser extensions, CLI tools, and open data projects.
 
-Currently deepening my full-stack foundation with **Laravel**, **React**, and **modern backend tooling** while shipping real open-source projects along the way.
-
----
-
-## 🛠 Tech Stack
-
-**Solid foundation:**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,wordpress,firebase,mysql,git,github,vercel,vscode&theme=dark" />
-</div>
-
-<br/>
-
-**Actively learning:**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind,docker,supabase,postgres,androidstudio&theme=dark" />
-</div>
-
-<sub>Actively in progress — not listed as mastered.</sub>
+I care about software that works end to end — a clear interface, organised code, and features that do what they promise. I learn by building, and I ship what I build.
 
 ---
 
-## 🚀 Featured Projects
+## What I Do
+
+- **Web Applications** — Next.js and React apps with routing, auth, dashboards, and database-backed features.
+- **Frontend Development** — Responsive interfaces with HTML, CSS, JavaScript, TypeScript, Tailwind CSS, and shadcn/Radix UI.
+- **Backend & APIs** — Node.js and Express APIs with JWT authentication, plus Python backends with FastAPI.
+- **Databases** — Supabase / PostgreSQL, Turso (libSQL), and SQLite, with Drizzle ORM.
+- **Browser Extensions & Streaming Tools** — Chrome extensions and HLS / IPTV tooling for inspecting and organising media streams.
+- **Developer Tools** — Command-line tools with a terminal UI, and collections of practical client-side web tools.
+- **AI Integrations** — Apps and tools built on Google Gemini and OpenRouter.
+- **Android** — Kotlin and Jetpack Compose apps, including an offline reminders app.
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📺 IPTV JSON Database
-![Status](https://img.shields.io/badge/Status-Active-4ade80?style=flat-square&labelColor=0B1120)
-![License](https://img.shields.io/github/license/istiakrahman15/iptv-api?style=flat-square&color=0EA5E9&labelColor=0B1120)
-![Stars](https://img.shields.io/github/stars/istiakrahman15/iptv-api?style=flat-square&color=0EA5E9&labelColor=0B1120)
+### ManifestHawk
+Chrome extension that detects, classifies, and inspects live video and audio streams — HLS, DASH, MP4, and audio — with search, filtering, and JSON / CSV export.
 
-Hand-curated IPTV channel database — 5,000+ channels converted from M3U playlists into clean, structured JSON. No scraping, no automation. Every entry manually verified.
+`JavaScript` `Chrome Extension APIs` `HTML` `CSS`
 
-`JSON` `HLS` `M3U8` `REST` `Open Source`
-
-<a href="https://github.com/istiakrahman15/iptv-api"><img src="https://img.shields.io/badge/Source%20Code-0B1120?style=for-the-badge&logo=github&logoColor=white" /></a>
+[Source Code](https://github.com/istiakrahman15/ManifestHawk)
 
 </td>
 <td width="50%" valign="top">
 
-### 🛍 Marlowe Shop
-![Status](https://img.shields.io/badge/Status-Live-4ade80?style=flat-square&labelColor=0B1120)
+### iptv-api
+A hand-curated IPTV channel database in JSON — Bangla, sports, news, kids, movies, music, and international channels — usable directly from the repository.
 
-Full-stack e-commerce platform with clean UI, authentication, admin panel, and production-ready deployment on Railway.
+`JSON` `M3U` `HLS`
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express` `SQLite` `Railway`
-
-<a href="https://marlowe-shopp-production.up.railway.app/"><img src="https://img.shields.io/badge/Live%20Demo-0EA5E9?style=for-the-badge&logoColor=white&labelColor=0B1120" /></a>
-<a href="https://github.com/istiakrahman15/marlowe-shopp"><img src="https://img.shields.io/badge/Source%20Code-0B1120?style=for-the-badge&logo=github&logoColor=white" /></a>
+[Source Code](https://github.com/istiakrahman15/iptv-api)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⏰ Offline Reminder App
-![Status](https://img.shields.io/badge/Status-Open%20Source-a78bfa?style=flat-square&labelColor=0B1120)
+### Marlowe Shopp
+A full-stack general store: storefront, product management, orders, and an admin panel, with JWT and bcrypt authentication and a Turso database.
 
-Lightweight offline reminder app for organizing daily tasks — no internet connection required.
+`JavaScript` `Node.js` `Express` `Turso` `HTML` `CSS`
 
-`HTML` `CSS` `JavaScript` `Offline Storage`
-
-<a href="https://github.com/istiakrahman15/reminders"><img src="https://img.shields.io/badge/Source%20Code-0B1120?style=for-the-badge&logo=github&logoColor=white" /></a>
+[Source Code](https://github.com/istiakrahman15/marlowe-shopp)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ More Coming
-![Status](https://img.shields.io/badge/Status-In%20Progress-f59e0b?style=flat-square&labelColor=0B1120)
+### istiak-cli
+An AI-powered terminal assistant with a React-based terminal UI. Ask questions, get answers, and work from the command line, powered by OpenRouter.
 
-Working on new projects in Laravel, React, and Android. Watch the repo to stay updated.
+`TypeScript` `Node.js` `Commander` `Ink` `Vitest`
 
-<a href="https://github.com/istiakrahman15?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-0B1120?style=for-the-badge&logo=github&logoColor=white" /></a>
+[Source Code](https://github.com/istiakrahman15/istiak-cli)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### School Management System
+A school management app covering students, teachers, classes, attendance, exams and results, fees, library, transport, hostel, notices, and a dashboard with charts.
+
+`Next.js` `TypeScript` `Tailwind CSS` `shadcn` `Drizzle` `SQLite` `Turso` `NextAuth`
+
+[Source Code](https://github.com/istiakrahman15/school-management)
+
+</td>
+<td width="50%" valign="top">
+
+### ResumeOS
+An AI-powered career toolkit: resume builder, ATS optimizer, cover letters, job tracker, portfolio publishing, PDF export, Stripe billing, and an admin panel.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Drizzle` `Stripe` `OpenAI`
+
+[Source Code](https://github.com/istiakrahman15/resume-os)
 
 </td>
 </tr>
 </table>
 
+[View all repositories →](https://github.com/istiakrahman15?tab=repositories)
+
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+
+**Languages**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,html,css,json&theme=dark" alt="TypeScript, JavaScript, Python, Kotlin, HTML, CSS, JSON" />
+</div>
+
+**Frontend**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite, Tailwind CSS" />
+</div>
+
+**Backend**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" alt="Node.js, Express, FastAPI, Django" />
+</div>
+
+**Databases**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite&theme=dark" alt="Supabase, PostgreSQL, SQLite" />
+</div>
+
+**Platforms & Tools**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode&theme=dark" alt="Git, GitHub, Vercel, Docker, VS Code" />
+</div>
+
+---
+
+## Currently Exploring
+
+I'm deepening my work with the modern JavaScript stack, and exploring the MERN stack and containerised deployments.
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind,docker&theme=dark" alt="TypeScript, React, Next.js, Node.js, Express, Tailwind CSS, Docker" />
+</div>
+
+<p align="center"><sub>TypeScript · React.js · Next.js · Node.js · Express.js · Tailwind CSS · Docker · MERN Stack</sub></p>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=istiakrahman15&theme=tokyonight&hide_border=true&background=0B1120&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&rank_icon=github" alt="Istiak Rahman's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=istiakrahman15&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=istiakrahman15&theme=react-dark&bg_color=0B1120&color=0EA5E9&line=0EA5E9&point=ffffff&hide_border=true" />
-</div>
-
----
-
-## 🎯 2026 Goals
-
-```
-◻ Ship more production-ready full-stack projects
-◻ Master Laravel + React end to end
-◻ Build and publish an Android app
-◻ Contribute consistently to open source
-◻ Improve UI/UX and design quality
-◻ Write better documentation for every repo
-```
-
----
-
-## 🤝 Connect
+## Connect With Me
 
 <div align="center">
 
-<a href="https://devistiak.eu.cc/"><img src="https://img.shields.io/badge/🌐 Portfolio-0EA5E9?style=for-the-badge&labelColor=0B1120" /></a>
-<a href="https://t.me/istiakrahman"><img src="https://img.shields.io/badge/Telegram-0EA5E9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B1120" /></a>
-<a href="https://instagram.com/istiakrahman_15"><img src="https://img.shields.io/badge/Instagram-0B1120?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/istiakrahman15"><img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://discord.com/users/1195940501354975282"><img src="https://img.shields.io/badge/Discord-0EA5E9?style=for-the-badge&logo=discord&logoColor=white&labelColor=0B1120" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-istiakrahman.pro.bd-0EA5E9?style=for-the-badge&labelColor=0B1120)](https://istiakrahman.pro.bd/)
+[![GitHub](https://img.shields.io/badge/GitHub-istiakrahman15-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/istiakrahman15)
+[![Instagram](https://img.shields.io/badge/Instagram-Istiakrahman__15-0B1120?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Istiakrahman_15)
+[![X](https://img.shields.io/badge/X-istiakrahman15-0B1120?style=for-the-badge&logo=x&logoColor=white)](https://x.com/istiakrahman15)
+[![Telegram](https://img.shields.io/badge/Telegram-istiakrahman-0EA5E9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B1120)](https://t.me/istiakrahman)
 
 </div>
 
 ---
 
-## ☕ Support
+## Support My Work
 
-If any of my open-source work has been useful, you can support future projects here:
+If you find my projects useful or appreciate what I build, consider supporting my work. Your support helps me keep creating and improving.
 
 <div align="center">
-<a href="https://www.supportkori.com/istiakrahman15"><img src="https://img.shields.io/badge/Support%20My%20Work-0EA5E9?style=for-the-badge&logo=kofi&logoColor=white&labelColor=0B1120" /></a>
+
+[![Support My Work](https://img.shields.io/badge/Support_My_Work-SupportKori-0EA5E9?style=for-the-badge&labelColor=0B1120)](https://www.supportkori.com/istiakrahman15)
+
 </div>
 
 ---
 
 <div align="center">
 
-*"Ship it, then make it better."*
-
-Thanks for stopping by — made with care in Bangladesh 🇧🇩
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0B1120&height=100&section=footer" />
+*Ship it, then make it better.*
 
 </div>
