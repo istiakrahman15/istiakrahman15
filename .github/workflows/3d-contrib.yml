@@ -2,8 +2,10 @@
 # Runs daily and on demand. First run: open the Actions tab, enable
 # workflows, then run this workflow once. It commits the generated SVG
 # into profile-3d-contrib/ in this repo.
-# NOTE: pinned to 0.9.3 (node24) + checkout v5 — v1 used 0.7.1 (Node 20),
+# NOTE: pinned to v0.9.3 (node24) + checkout v5 — v1 used 0.7.1 (Node 20),
 # whose run reported "Success" but generated nothing under forced Node 24.
+# The action only GENERATES the files — the Commit & Push step below is
+# what actually saves them to the repo (per the action's own README).
 name: 3D Contribution
 
 on:
@@ -23,3 +25,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: istiakrahman15
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
