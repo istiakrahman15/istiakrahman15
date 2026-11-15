@@ -1,0 +1,23 @@
+# 3D contribution city — renders commits as a night-view skyline.
+# Runs daily and on demand. First run: open the Actions tab, enable
+# workflows, then run this workflow once. It commits the generated SVG
+# into profile-3d-contrib/ in this repo.
+name: 3D Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: istiakrahman15
