@@ -2,6 +2,8 @@
 # Runs daily and on demand. First run: open the Actions tab, enable
 # workflows, then run this workflow once. It commits the generated SVG
 # into profile-3d-contrib/ in this repo.
+# NOTE: pinned to 0.9.3 (node24) + checkout v5 — v1 used 0.7.1 (Node 20),
+# whose run reported "Success" but generated nothing under forced Node 24.
 name: 3D Contribution
 
 on:
@@ -16,8 +18,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: istiakrahman15
