@@ -1,39 +1,15 @@
 <div align="center">
 
-# Istiak Rahman
+<!-- Living avatar: 4s Ken Burns loop on the anime portrait -->
+<img src="./hero.gif" width="280" alt="Istiak Rahman — anime portrait, slow zoom loop" />
 
-**Developer · Builder · Creator — Bangladesh**
-
-I build websites, web applications, and digital tools that people can actually use — from browser extensions and developer tools to full-stack apps with auth, databases, and admin panels.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-istiakrahman.pro.bd-0EA5E9?style=for-the-badge&labelColor=0B1120)](https://istiakrahman.pro.bd/)
-[![GitHub](https://img.shields.io/badge/GitHub-istiakrahman15-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/istiakrahman15)
-[![Support](https://img.shields.io/badge/Support_My_Work-SupportKori-0EA5E9?style=for-the-badge&labelColor=0B1120)](https://www.supportkori.com/istiakrahman15)
+<img src="./hero.svg?v=1" width="100%" alt="Istiak Rahman — Developer · Builder · Creator" />
 
 </div>
 
----
+<img src="./about-life.svg?v=1" width="100%" alt="What I build and the anime I love" />
 
-## About Me
-
-I'm a developer from Bangladesh who likes turning ideas into working software. Most of my work lives here on GitHub: web apps built with Next.js and React, Node.js backends, browser extensions, CLI tools, and open data projects.
-
-I care about software that works end to end — a clear interface, organised code, and features that do what they promise. I learn by building, and I ship what I build.
-
----
-
-## What I Do
-
-- **Web Applications** — Next.js and React apps with routing, auth, dashboards, and database-backed features.
-- **Frontend Development** — Responsive interfaces with HTML, CSS, JavaScript, TypeScript, Tailwind CSS, and shadcn/Radix UI.
-- **Backend & APIs** — Node.js and Express APIs with JWT authentication, plus Python backends with FastAPI.
-- **Databases** — Supabase / PostgreSQL, Turso (libSQL), and SQLite, with Drizzle ORM.
-- **Browser Extensions & Streaming Tools** — Chrome extensions and HLS / IPTV tooling for inspecting and organising media streams.
-- **Developer Tools** — Command-line tools with a terminal UI, and collections of practical client-side web tools.
-- **AI Integrations** — Apps and tools built on Google Gemini and OpenRouter.
-- **Android** — Kotlin and Jetpack Compose apps, including an offline reminders app.
-
----
+<img src="./stack.svg?v=1" width="100%" alt="Tech stack — orbiting icons and chip grid" />
 
 ## Featured Projects
 
@@ -108,64 +84,28 @@ An AI-powered career toolkit: resume builder, ATS optimizer, cover letters, job 
 
 [View all repositories →](https://github.com/istiakrahman15?tab=repositories)
 
----
-
-## Tech Stack
-
-**Languages**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,html,css,json&theme=dark" alt="TypeScript, JavaScript, Python, Kotlin, HTML, CSS, JSON" />
-</div>
-
-**Frontend**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite, Tailwind CSS" />
-</div>
-
-**Backend**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" alt="Node.js, Express, FastAPI, Django" />
-</div>
-
-**Databases**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite&theme=dark" alt="Supabase, PostgreSQL, SQLite" />
-</div>
-
-**Platforms & Tools**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode&theme=dark" alt="Git, GitHub, Vercel, Docker, VS Code" />
-</div>
-
----
-
-## Currently Exploring
-
-I'm deepening my work with the modern JavaScript stack, and exploring the MERN stack and containerised deployments.
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind,docker&theme=dark" alt="TypeScript, React, Next.js, Node.js, Express, Tailwind CSS, Docker" />
-</div>
-
-<p align="center"><sub>TypeScript · React.js · Next.js · Node.js · Express.js · Tailwind CSS · Docker · MERN Stack</sub></p>
-
----
+<img src="./id-dashboard.svg?v=1" width="100%" alt="ID badge and dashboard — live GitHub numbers" />
 
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&rank_icon=github" alt="Istiak Rahman's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&rank_icon=github" alt="Istiak Rahman's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
 
 </div>
 
----
+## My Contributions in 3D
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution city — rebuilt daily by GitHub Actions" />
+
+<sub>Commits rendered as a night city, refreshed every day. If the image is missing, run the “3D Contribution” workflow once from the Actions tab.</sub>
+
+</div>
+
+<img src="./connect.svg?v=1" width="100%" alt="Connect with Istiak Rahman" />
 
 ## Connect With Me
 
