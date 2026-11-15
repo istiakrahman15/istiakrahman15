@@ -3,13 +3,15 @@
 <!-- Living avatar: 4s Ken Burns loop on the anime portrait -->
 <img src="./hero.gif" width="280" alt="Istiak Rahman — anime portrait, slow zoom loop" />
 
-<img src="./hero.svg?v=1" width="100%" alt="Istiak Rahman — Developer · Builder · Creator" />
+<img src="./hero.svg?v=2" width="100%" alt="Istiak Rahman — Developer · Builder · Creator" />
 
 </div>
 
-<img src="./about-life.svg?v=1" width="100%" alt="What I build and the anime I love" />
+<img src="./about-life.svg?v=2" width="100%" alt="What I build and the anime I love" />
 
-<img src="./stack.svg?v=1" width="100%" alt="Tech stack — orbiting icons and chip grid" />
+<img src="./stack.svg?v=2" width="100%" alt="Tech stack — chips and characters on rotation" />
+
+<img src="./id-dashboard.svg?v=2" width="100%" alt="ID badge and dashboard — live GitHub numbers" />
 
 ## Featured Projects
 
@@ -84,7 +86,7 @@ An AI-powered career toolkit: resume builder, ATS optimizer, cover letters, job 
 
 [View all repositories →](https://github.com/istiakrahman15?tab=repositories)
 
-<img src="./id-dashboard.svg?v=1" width="100%" alt="ID badge and dashboard — live GitHub numbers" />
+<img src="./anime-universe.svg?v=2" width="100%" alt="Anime Universe — Bleach, Blue Lock and Vinland Saga" />
 
 ## GitHub Statistics
 
@@ -105,7 +107,7 @@ An AI-powered career toolkit: resume builder, ATS optimizer, cover letters, job 
 
 </div>
 
-<img src="./connect.svg?v=1" width="100%" alt="Connect with Istiak Rahman" />
+<img src="./connect.svg?v=2" width="100%" alt="Connect with Istiak Rahman" />
 
 ## Connect With Me
 
