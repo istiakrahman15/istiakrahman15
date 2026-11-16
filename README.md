@@ -1,37 +1,28 @@
+<img src="./hero-light.svg?v=3#gh-light-mode-only" width="100%" alt="Istiak Rahman, Developer · Builder · Creator" />
+<img src="./hero-dark.svg?v=3#gh-dark-mode-only" width="100%" alt="Istiak Rahman, Developer · Builder · Creator" />
+
 <div align="center">
 
-# Istiak Rahman
-
-**Developer · Builder · Creator — Bangladesh**
-
-I build websites, web applications, and digital tools that people can actually use — from browser extensions and developer tools to full-stack apps with auth, databases, and admin panels.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-istiakrahman.pro.bd-0EA5E9?style=for-the-badge&labelColor=0B1120)](https://istiakrahman.pro.bd/)
-[![GitHub](https://img.shields.io/badge/GitHub-istiakrahman15-0B1120?style=for-the-badge&logo=github&logoColor=white)](https://github.com/istiakrahman15)
-[![Support](https://img.shields.io/badge/Support_My_Work-SupportKori-0EA5E9?style=for-the-badge&labelColor=0B1120)](https://www.supportkori.com/istiakrahman15)
+![Profile views](https://komarev.com/ghpvc/?username=istiakrahman15&color=0EA5E9&style=flat&label=PROFILE+VIEWS)
 
 </div>
 
----
+## About
 
-## About Me
+I'm Istiak Rahman, a developer from Bangladesh. I build websites, web applications, and digital tools that people can actually use, from browser extensions and developer tools to full stack apps with auth, databases, and admin panels. I learn by building, and I ship what I build.
 
-I'm a developer from Bangladesh who likes turning ideas into working software. Most of my work lives here on GitHub: web apps built with Next.js and React, Node.js backends, browser extensions, CLI tools, and open data projects.
-
-I care about software that works end to end — a clear interface, organised code, and features that do what they promise. I learn by building, and I ship what I build.
+Beyond code: <img src="./anime-ichigo.png" width="24" align="center" alt="Ichigo Kurosaki"> Bleach · <img src="./anime-isagi.png" width="24" align="center" alt="Yoichi Isagi"> Blue Lock · <img src="./anime-thorfinn.png" width="24" align="center" alt="Thorfinn"> Vinland Saga. Football: Messi, Argentina, Barcelona.
 
 ---
 
 ## What I Do
 
-- **Web Applications** — Next.js and React apps with routing, auth, dashboards, and database-backed features.
-- **Frontend Development** — Responsive interfaces with HTML, CSS, JavaScript, TypeScript, Tailwind CSS, and shadcn/Radix UI.
-- **Backend & APIs** — Node.js and Express APIs with JWT authentication, plus Python backends with FastAPI.
-- **Databases** — Supabase / PostgreSQL, Turso (libSQL), and SQLite, with Drizzle ORM.
-- **Browser Extensions & Streaming Tools** — Chrome extensions and HLS / IPTV tooling for inspecting and organising media streams.
-- **Developer Tools** — Command-line tools with a terminal UI, and collections of practical client-side web tools.
-- **AI Integrations** — Apps and tools built on Google Gemini and OpenRouter.
-- **Android** — Kotlin and Jetpack Compose apps, including an offline reminders app.
+- **Web Applications:** Next.js and React apps with routing, auth, dashboards, and database-backed features.
+- **Frontend:** Responsive interfaces with TypeScript, Tailwind CSS, and shadcn / Radix UI.
+- **Backend & APIs:** Node.js and Express APIs with JWT authentication, Python backends with FastAPI, and databases (Supabase / PostgreSQL, Turso, SQLite) with Drizzle ORM.
+- **Browser Extensions & Streaming:** Chrome extensions and HLS / IPTV tooling for inspecting and organising media streams.
+- **Developer Tools:** Command line tools with a terminal UI, and practical client side web tools.
+- **AI Integrations:** Apps and tools built on Google Gemini and OpenRouter.
 
 ---
 
@@ -42,7 +33,7 @@ I care about software that works end to end — a clear interface, organised cod
 <td width="50%" valign="top">
 
 ### ManifestHawk
-Chrome extension that detects, classifies, and inspects live video and audio streams — HLS, DASH, MP4, and audio — with search, filtering, and JSON / CSV export.
+Chrome extension that detects, classifies, and inspects live video and audio streams: HLS, DASH, MP4, and audio, with search, filtering, and JSON / CSV export.
 
 `JavaScript` `Chrome Extension APIs` `HTML` `CSS`
 
@@ -52,7 +43,7 @@ Chrome extension that detects, classifies, and inspects live video and audio str
 <td width="50%" valign="top">
 
 ### iptv-api
-A hand-curated IPTV channel database in JSON — Bangla, sports, news, kids, movies, music, and international channels — usable directly from the repository.
+A hand curated IPTV channel database in JSON: Bangla, sports, news, kids, movies, music, and international channels, usable directly from the repository.
 
 `JSON` `M3U` `HLS`
 
@@ -64,7 +55,7 @@ A hand-curated IPTV channel database in JSON — Bangla, sports, news, kids, mov
 <td width="50%" valign="top">
 
 ### Marlowe Shopp
-A full-stack general store: storefront, product management, orders, and an admin panel, with JWT and bcrypt authentication and a Turso database.
+A full stack general store: storefront, product management, orders, and an admin panel, with JWT and bcrypt authentication and a Turso database.
 
 `JavaScript` `Node.js` `Express` `Turso` `HTML` `CSS`
 
@@ -74,7 +65,7 @@ A full-stack general store: storefront, product management, orders, and an admin
 <td width="50%" valign="top">
 
 ### istiak-cli
-An AI-powered terminal assistant with a React-based terminal UI. Ask questions, get answers, and work from the command line, powered by OpenRouter.
+An AI powered terminal assistant with a React based terminal UI. Ask questions, get answers, and work from the command line, powered by OpenRouter.
 
 `TypeScript` `Node.js` `Commander` `Ink` `Vitest`
 
@@ -96,7 +87,7 @@ A school management app covering students, teachers, classes, attendance, exams 
 <td width="50%" valign="top">
 
 ### ResumeOS
-An AI-powered career toolkit: resume builder, ATS optimizer, cover letters, job tracker, portfolio publishing, PDF export, Stripe billing, and an admin panel.
+An AI powered career toolkit: resume builder, ATS optimizer, cover letters, job tracker, portfolio publishing, PDF export, Stripe billing, and an admin panel.
 
 `Next.js` `React` `TypeScript` `Tailwind CSS` `Supabase` `Drizzle` `Stripe` `OpenAI`
 
@@ -112,47 +103,17 @@ An AI-powered career toolkit: resume builder, ATS optimizer, cover letters, job 
 
 ## Tech Stack
 
-**Languages**
+**Languages:** `TypeScript` `JavaScript` `Python` `Kotlin` `HTML` `CSS` `JSON`
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,html,css,json&theme=dark" alt="TypeScript, JavaScript, Python, Kotlin, HTML, CSS, JSON" />
-</div>
+**Frontend:** `React` `Next.js` `Vite` `Tailwind CSS` `shadcn / Radix UI` `Framer Motion`
 
-**Frontend**
+**Backend:** `Node.js` `Express` `FastAPI` `Django (demo)` `Supabase` `Drizzle ORM`
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="React, Next.js, Vite, Tailwind CSS" />
-</div>
+**Data:** `PostgreSQL` `Turso / libSQL` `SQLite` `M3U` `HLS`
 
-**Backend**
+**Tools:** `Git` `GitHub` `GitHub Actions` `Docker` `VS Code` `Vercel`
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" alt="Node.js, Express, FastAPI, Django" />
-</div>
-
-**Databases**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=supabase,postgres,sqlite&theme=dark" alt="Supabase, PostgreSQL, SQLite" />
-</div>
-
-**Platforms & Tools**
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode&theme=dark" alt="Git, GitHub, Vercel, Docker, VS Code" />
-</div>
-
----
-
-## Currently Exploring
-
-I'm deepening my work with the modern JavaScript stack, and exploring the MERN stack and containerised deployments.
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind,docker&theme=dark" alt="TypeScript, React, Next.js, Node.js, Express, Tailwind CSS, Docker" />
-</div>
-
-<p align="center"><sub>TypeScript · React.js · Next.js · Node.js · Express.js · Tailwind CSS · Docker · MERN Stack</sub></p>
+Currently deepening TypeScript, React, Next.js, Node.js, Express, Tailwind CSS, Docker, and the MERN stack.
 
 ---
 
@@ -160,10 +121,20 @@ I'm deepening my work with the modern JavaScript stack, and exploring the MERN s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&rank_icon=github" alt="Istiak Rahman's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&text_color=c9d1d9&langs_count=8" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&rank_icon=github#gh-dark-mode-only" alt="Istiak Rahman's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&hide_border=true#gh-light-mode-only" alt="Istiak Rahman's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&text_color=c9d1d9&langs_count=8#gh-dark-mode-only" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&hide_border=true&langs_count=8#gh-light-mode-only" alt="Most used languages" />
 
 </div>
+
+---
+
+## My Contributions in 3D
+
+Commits rendered as a night city, refreshed every day.
+
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution city, rebuilt daily by GitHub Actions" />
 
 ---
 
