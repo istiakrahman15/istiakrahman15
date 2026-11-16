@@ -121,10 +121,10 @@ Currently deepening TypeScript, React, Next.js, Node.js, Express, Tailwind CSS, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&rank_icon=github#gh-dark-mode-only" alt="Istiak Rahman's GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=istiakrahman15&show_icons=true&hide_border=true#gh-light-mode-only" alt="Istiak Rahman's GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=0EA5E9&text_color=c9d1d9&langs_count=8#gh-dark-mode-only" alt="Most used languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istiakrahman15&layout=compact&hide_border=true&langs_count=8#gh-light-mode-only" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=istiakrahman15&theme=github_dark#gh-dark-mode-only" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=istiakrahman15&theme=github#gh-light-mode-only" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=istiakrahman15&theme=github_dark#gh-dark-mode-only" alt="Languages by repository" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=istiakrahman15&theme=github#gh-light-mode-only" alt="Languages by repository" />
 
 </div>
 
