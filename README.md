@@ -9,20 +9,18 @@
 
 ## About
 
-I'm Istiak Rahman, a developer from Bangladesh. I build websites, web applications, and digital tools that people can actually use, from browser extensions and developer tools to full stack apps with auth, databases, and admin panels. I learn by building, and I ship what I build.
+I'm Istiak Rahman, a developer from Bangladesh. I build products people actually use: web apps, browser extensions and developer tools.
 
-Beyond code: <img src="./anime-ichigo.png" width="24" align="center" alt="Ichigo Kurosaki"> Bleach · <img src="./anime-isagi.png" width="24" align="center" alt="Yoichi Isagi"> Blue Lock · <img src="./anime-thorfinn.png" width="24" align="center" alt="Thorfinn"> Vinland Saga. Football: Messi, Argentina, Barcelona.
+I learn by building, and I ship what I build. Beyond code: <img src="./anime-ichigo.png" width="24" align="center" alt="Ichigo Kurosaki"> Bleach · <img src="./anime-isagi.png" width="24" align="center" alt="Yoichi Isagi"> Blue Lock · <img src="./anime-thorfinn.png" width="24" align="center" alt="Thorfinn"> Vinland Saga. Football: Messi, Argentina, Barcelona.
 
 ---
 
 ## What I Do
 
-- **Web Applications:** Next.js and React apps with routing, auth, dashboards, and database-backed features.
-- **Frontend:** Responsive interfaces with TypeScript, Tailwind CSS, and shadcn / Radix UI.
-- **Backend & APIs:** Node.js and Express APIs with JWT authentication, Python backends with FastAPI, and databases (Supabase / PostgreSQL, Turso, SQLite) with Drizzle ORM.
-- **Browser Extensions & Streaming:** Chrome extensions and HLS / IPTV tooling for inspecting and organising media streams.
-- **Developer Tools:** Command line tools with a terminal UI, and practical client side web tools.
-- **AI Integrations:** Apps and tools built on Google Gemini and OpenRouter.
+- **Web Applications:** Next.js and React apps with auth, dashboards and databases.
+- **Frontend:** Responsive interfaces with TypeScript, Tailwind CSS and shadcn.
+- **Backend and APIs:** Node.js and Express APIs with JWT, Python with FastAPI, and Supabase, Turso and SQLite with Drizzle.
+- **Extensions and Tools:** Chrome extensions, HLS and IPTV tooling, command line tools and AI apps.
 
 ---
 
@@ -48,28 +46,6 @@ A hand curated IPTV channel database in JSON: Bangla, sports, news, kids, movies
 `JSON` `M3U` `HLS`
 
 [Source Code](https://github.com/istiakrahman15/iptv-api)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Marlowe Shopp
-A full stack general store: storefront, product management, orders, and an admin panel, with JWT and bcrypt authentication and a Turso database.
-
-`JavaScript` `Node.js` `Express` `Turso` `HTML` `CSS`
-
-[Source Code](https://github.com/istiakrahman15/marlowe-shopp)
-
-</td>
-<td width="50%" valign="top">
-
-### istiak-cli
-An AI powered terminal assistant with a React based terminal UI. Ask questions, get answers, and work from the command line, powered by OpenRouter.
-
-`TypeScript` `Node.js` `Commander` `Ink` `Vitest`
-
-[Source Code](https://github.com/istiakrahman15/istiak-cli)
 
 </td>
 </tr>
@@ -102,6 +78,14 @@ An AI powered career toolkit: resume builder, ATS optimizer, cover letters, job 
 ---
 
 ## Tech Stack
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=TypeScript+JavaScript+Python;React+Next.js+Tailwind+CSS;Node.js+Express+FastAPI;Supabase+PostgreSQL+Turso+Drizzle" alt="Tech stack" />
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,kotlin,html,css,react,nextjs,vite,tailwind,nodejs,express,fastapi,supabase,postgres,sqlite,docker,git,github,vercel" alt="Tech stack icons" />
+
+</div>
 
 **Languages:** `TypeScript` `JavaScript` `Python` `Kotlin` `HTML` `CSS` `JSON`
 
